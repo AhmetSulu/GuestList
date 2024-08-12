@@ -19,7 +19,7 @@ class Program
         };
 
         // Listeyi ekrana yazdırıyoruz.
-        Console.WriteLine("Gala gecesine davetli ziyaretçiler:");
+        Console.WriteLine("==> Davetliler <==");
         foreach (string guestName in guestNames)
         {
             Console.WriteLine(guestName);
